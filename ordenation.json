@@ -1,0 +1,15 @@
+[
+    {
+        "attribute": "Edition",
+        "order": "Descending"
+    },
+    {
+        "attribute": "Author",
+        "order": "Descending"
+    },
+    {
+        "attribute": "Title",
+        "order": "Ascending"
+    }
+
+]
